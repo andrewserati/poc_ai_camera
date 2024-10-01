@@ -1,0 +1,2 @@
+0 É um(a) gatinho(a)
+1 Não é um(a) gatinho(a)
